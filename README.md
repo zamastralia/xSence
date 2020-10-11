@@ -1,2 +1,2 @@
-# xSence
-xSence games shop
+Copyright xSence games shop
+All rights reserved
