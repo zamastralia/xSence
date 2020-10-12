@@ -9,7 +9,7 @@ video{
 #page{
 	font-family: 'Lato', Arial, sans-serif;
 
-	background-image: url(images/bg2.jpg);
+	background-image: url(https://raw.githubusercontent.com/zamastralia/xSence/main/Images/bg2.jpg);
 	background-repeat: no-repeat;
 	background-position: center top;
 	background-color: #f18e5f;
@@ -313,7 +313,7 @@ a:focus, a:hover{
 	font-size: 15px;
 	color: #3d4850;
 
-	background-image: url(images/arrow-link.png);
+	background-image: url(https://raw.githubusercontent.com/zamastralia/xSence/main/Images/arrow-link.png);
 	background-repeat: no-repeat;
 	background-position: left center;
 }
@@ -347,16 +347,16 @@ a:focus, a:hover{
 }
 
 #selling-points .row div:nth-of-type(1) span{
-	background-image: url(images/icon-1.png);
+	background-image: url(https://raw.githubusercontent.com/zamastralia/xSence/main/Images/icon-1.png);
 	padding-left: 40px;
 }
 
 #selling-points .row div:nth-of-type(2) span{
-	background-image: url(images/icon-2.png);
+	background-image: url(https://raw.githubusercontent.com/zamastralia/xSence/main/Images/icon-2.png);
 }
 
 #selling-points .row div:nth-of-type(3) span{
-	background-image: url(images/icon-3.png);
+	background-image: url(https://raw.githubusercontent.com/zamastralia/xSence/main/Images/icon-3.png);
 }
 
 @media (max-width: 767px){
@@ -540,14 +540,14 @@ a:focus, a:hover{
 
 .image .main .prev{
 	left: -15px;
-	background-image: url('images/prev2.png');
+	background-image: url('https://raw.githubusercontent.com/zamastralia/xSence/main/Images/prev2.png');
 	border-top-right-radius: 2px;
 	border-bottom-right-radius: 2px;
 }
 
 .image .main .next{
 	right: -15px;
-	background-image: url('images/next2.png');
+	background-image: url('https://raw.githubusercontent.com/zamastralia/xSence/main/Images/next2.png');
 	border-top-left-radius: 2px;
 	border-bottom-left-radius: 2px;
 }
@@ -601,7 +601,7 @@ a:focus, a:hover{
 	}
 	.image .main .main-content:after{
 		content: "";
-		background-image: url('images/zoom.png');
+		background-image: url('https://raw.githubusercontent.com/zamastralia/xSence/main/Images/zoom.png');
 		background-repeat: no-repeat;
 		position: absolute;
 		bottom: 10px;
@@ -618,7 +618,7 @@ a:focus, a:hover{
 		height: 19px;
 		padding: 0;
 		content: "";
-		background-image: url('images/close.png');
+		background-image: url('https://raw.githubusercontent.com/zamastralia/xSence/main/Images/close.png');
 	}
 }
 
@@ -831,13 +831,13 @@ h1.title{
 		padding: 10px 15px;
 		border: 0;
 		border-top: 1px solid #dfdfdf;
-		background-image: url(images/tab-arrow-mobile.png);
+		background-image: url(https://raw.githubusercontent.com/zamastralia/xSence/main/Images/tab-arrow-mobile.png);
 		background-repeat: no-repeat;
 		background-position: right center;
 	}
 	.tabs > label:hover{
 		border-bottom: 0;
-		background-image: url(images/tab-arrow-mobile-open.png);
+		background-image: url(https://raw.githubusercontent.com/zamastralia/xSence/main/Images/tab-arrow-mobile-open.png);
 	}
 	.tabs #tab-control-1:checked ~ label[for="tab-control-1"],
 	.tabs #tab-control-2:checked ~ label[for="tab-control-2"],
@@ -845,7 +845,7 @@ h1.title{
 	.tabs #tab-control-4:checked ~ label[for="tab-control-4"],
 	.tabs #tab-control-5:checked ~ label[for="tab-control-5"],
 	.tabs #tab-control-6:checked ~ label[for="tab-control-6"]{
-		background-image: url(images/tab-arrow-mobile-open.png);
+		background-image: url(https://raw.githubusercontent.com/zamastralia/xSence/main/Images/tab-arrow-mobile-open.png);
 	}
 }
 
